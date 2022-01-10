@@ -89,7 +89,7 @@ export default function Sample(){
     </div>
 
     <div className={styles.column}>
-      good
+      good god
     </div>
 
   </>
